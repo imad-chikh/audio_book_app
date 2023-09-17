@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29079953338",
+    "project_id": "masamie-663c4",
+    "storage_bucket": "masamie-663c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29079953338:android:43af19517ab6acfe894783",
+        "android_client_info": {
+          "package_name": "com.example.audio_book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29079953338-4i5jmtonst11ekjgnnpra4qcgckijhar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgukjLFGDbG4p6-SiUItbZnlYvvrQRqmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29079953338-4i5jmtonst11ekjgnnpra4qcgckijhar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
